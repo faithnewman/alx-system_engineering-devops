@@ -1,0 +1,2 @@
+#!/bin/bash
+export PATH -d(12)="$HOME/action:$PATH"
